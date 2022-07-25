@@ -1,0 +1,6 @@
+cd door_management_files
+cd door_configuration
+vim door_1.con
+//ручное изменниение CLOSED на OPEN
+// *esc
+:wq
